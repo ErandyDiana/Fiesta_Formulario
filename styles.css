@@ -1,0 +1,61 @@
+body {
+  background: #f0c27b; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f0c27b, #4b1248); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f0c27b, #4b1248); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1{
+    align-items: center; 
+    font-size: 2.5rem;
+    font-family: 'Raleway', cursive;
+    background-color: hsl(135, 55%, 60%);
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px 3px rgb(111, 6, 197);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+h2{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.formulario {
+  font-size: 2.5rem;
+  font-family: 'Raleway', cursive;
+  background-color: hsl(135, 55%, 60%);
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 1px 1px 3px 3px rgb(143, 3, 224);
+}
+
+.formulario input, select {
+  border: none;
+  height: 20px;
+  border-radius: 5px;
+}
+
+.error {
+  background-color: red;
+}
+
+.lista-de-invitados {
+  font-size: 2.5rem;
+  font-family: 'Raleway', cursive;
+  background-color: hsl(135, 55%, 60%);
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 1px 1px 3px 3px rgb(143, 3, 224);
+  /*color: #4b1248;
+  font-family: Verdana;
+  margin: 10px 0;
+  border: 5px solid #4b1248;
+  border-radius: 5px;
+  padding: 0 5px;
+  width: 400px;
+  margin: 20px*/
+}
+
+
